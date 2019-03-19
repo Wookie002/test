@@ -8,7 +8,7 @@ const actionMap = {
     'DELETE' : 'delete',
 };
 
-exports.handler = async (event, context, callback) => {
+module.exports = async (event, context, callback) => {
     let error = null;
     
     if (!event.headers['token-id']) {
