@@ -1,5 +1,5 @@
 {
-  "name": "@test/rbac-test",
+  "name": "rbac",
   "version": "1.0.1",
   "description": "test",
   "main": "index.js",
