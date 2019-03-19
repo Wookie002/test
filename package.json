@@ -1,0 +1,23 @@
+{
+  "name": "@test/rbac-test",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wookie002/test.git"
+  },
+  "author": "andrew kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wookie002/test/issues"
+  },
+  "homepage": "https://github.com/Wookie002/test#readme",
+  "dependencies": {
+    "easy-rbac": "^3.1.0",
+    "jwt-decode": "^2.2.0"
+  }
+}
